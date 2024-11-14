@@ -1,4 +1,4 @@
-# 👋 Introduction
+## 👋 Introduction
 
 - 👨🏻‍🏫 @LFFreitas-Gutierres is a professor in the Department of Electromechanics and Power Systems (DESP) at the [Federal University of Santa Maria (UFSM)](https://www.ufsm.br/).
 - 🎓 He holds a bachelor’s degree (2010), master’s degree (2013), teaching License (2013), and doctoral degree (2018) in Electrical Engineering, all obtained from UFSM.
