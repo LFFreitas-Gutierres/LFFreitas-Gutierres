@@ -1,3 +1,10 @@
+[![Curriculum Lattes](https://img.shields.io/badge/Lattes-white)](http://lattes.cnpq.br/8846358506427099)
+[![ORCID](https://img.shields.io/badge/ORCID-grey)](https://orcid.org/0000-0002-6254-7306)
+[![SciProfiles](https://img.shields.io/badge/SciProfiles-black)](https://sciprofiles.com/profile/lffreitas-gutierres)
+[![Scopus](https://img.shields.io/badge/Scopus-white)](https://www.scopus.com/authid/detail.uri?authorId=57195542368)
+[![Web of Science](https://img.shields.io/badge/ResearcherID-grey)](https://www.webofscience.com/wos/author/record/Q-8444-2016)
+[![substationworm](https://img.shields.io/badge/substationworm-black)](https://github.com/substationworm)
+
 ## 👋 Introduction
 
 - 👨🏻‍🏫 @LFFreitas-Gutierres is a professor in the Department of Electromechanics and Power Systems (DESP) at the [Federal University of Santa Maria (UFSM)](https://www.ufsm.br/).
@@ -6,7 +13,7 @@
   - 🕵️‍♂️ Industrial cybersecurity.
   - ⚙️ Automation of electrical power systems.
   - ⚡ Electromagnetic transient modeling and analysis.
-- 🌐 He is a member of the [Center of Excellence in Energy and Power Systems (CEESP)](https://ceesp.ufsm.br/) and the Laboratory for Analysis and Protection of Electrical Systems (LAPES)
+- 🌐 He is a member of the [Center of Excellence in Energy and Power Systems (CEESP)](https://ceesp.ufsm.br/) and the Laboratory for Analysis and Protection of Electrical Systems (LAPES).
 
 <!---
 LFFreitas-Gutierres/LFFreitas-Gutierres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
